@@ -1,2 +1,3 @@
-// Command that lists all the databases in the server
-show dbs;
+//Command that lists all the databases in the server
+
+show dbs
